@@ -1,7 +1,7 @@
 Title: A&M Trivia
 Tags: Aggies, Education
-Date: 2021-01-23
-Modified: 2021-01-25
+Date: 2021-02-11
+Modified: 2021-02-10
 Category: College
 Authors: Zachary Bolton, Nathan Romano, William Brooks, Andrew Granger
 Summary: Interesting facts about A&M
@@ -10,8 +10,8 @@ Summary: Interesting facts about A&M
     <head>
         <title>A&M Trivia</title>
         <meta name="tags" content="Aggies, Education" />
-        <meta name="date" content="2021-01-23" />
-        <meta name="modified" content="2021-01-25" />
+        <meta name="date" content="2021-02-11" />
+        <meta name="modified" content="2021-02-10" />
         <meta name="category" content="College" />
         <meta name="authors" content="Zachary Bolton, Nathan Romano, William Brooks, Andrew Granger" />
         <meta name="summary" content="Interesting facts about A&M" />
