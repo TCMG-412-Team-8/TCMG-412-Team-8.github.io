@@ -3,7 +3,7 @@ Tags: Aggies, Education
 Date: 2021-01-23
 Modified: 2021-01-25
 Category: College
-Authors: Juan Quiroz, Zachary Bolton, Nathan Romano, William Brooks
+Authors: Zachary Bolton, Nathan Romano, William Brooks, Andrew Granger
 Summary: Interesting facts about A&M
 
 <html>
@@ -13,7 +13,7 @@ Summary: Interesting facts about A&M
         <meta name="date" content="2021-01-23" />
         <meta name="modified" content="2021-01-25" />
         <meta name="category" content="College" />
-        <meta name="authors" content="Juan Quiroz, Zachary Bolton, Nathan Romano, William Brooks" />
+        <meta name="authors" content="Zachary Bolton, Nathan Romano, William Brooks, Andrew Granger" />
         <meta name="summary" content="Interesting facts about A&M" />
     </head>
     <body>
