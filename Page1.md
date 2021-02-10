@@ -1,7 +1,7 @@
 Title: -Team 8- 
 Tags: TCMG, A&M
-Date: 2021-01-23
-Modified: 2021-01-25
+Date: 2021-02-11
+Modified: 2021-02-10
 Category: -Home-
 Authors:Zachary Bolton, Nathan Romano, William Brooks, Andrew Granger
 Summary: Welcome to our new website built for TCMG 412!
@@ -10,8 +10,8 @@ Summary: Welcome to our new website built for TCMG 412!
     <head>
         <title>-Team 8-</title>
         <meta name="tags" content="TCMG, A&M" />
-        <meta name="date" content="2021-01-23" />
-        <meta name="modified" content="2021-01-25" />
+        <meta name="date" content="2021-02-11" />
+        <meta name="modified" content="2021-02-10" />
         <meta name="category" content="-Home-" />
         <meta name="authors" content="Zachary Bolton, Nathan Romano, William Brooks, Andrew Granger" />
         <meta name="summary" content="Welcome to our new website built for TCMG 412!" />
