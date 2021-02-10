@@ -3,7 +3,7 @@ Tags: TCMG, A&M
 Date: 2021-01-23
 Modified: 2021-01-25
 Category: -Home-
-Authors:Zachary Bolton, Nathan Romano, William Brooks, Andrew Granger
+Authors:Zachary Bolot, Nathan Romano, William Brooks, Andrew Granger
 Summary: Welcome to our new website built for TCMG 412!
 
 <html>
@@ -13,7 +13,7 @@ Summary: Welcome to our new website built for TCMG 412!
         <meta name="date" content="2021-01-23" />
         <meta name="modified" content="2021-01-25" />
         <meta name="category" content="-Home-" />
-        <meta name="authors" content="Zachary Bolton, Nathan Romano, William Brooks, Andrew Granger" />
+        <meta name="authors" content="Zachary Bolot, Nathan Romano, William Brooks, Andrew Granger" />
         <meta name="summary" content="Welcome to our new website built for TCMG 412!" />
     </head>
     <body>
