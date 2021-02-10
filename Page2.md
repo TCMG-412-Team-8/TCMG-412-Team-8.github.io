@@ -3,7 +3,7 @@ Tags: Pets, Aww
 Date: 2021-01-23
 Modified: 2021-01-25
 Category: Pets
-Authors:Zachary Bolton, Nathan Romano, William Brooks, Andrew Granger
+Authors: Zachary Bolton, Nathan Romano, William Brooks, Andrew Granger
 Summary: Look at our cute pets!
 
 <html>
